@@ -84,5 +84,21 @@
         ]
     }
 
+    "MAT": {
+        "id": "BIO",
+        "nombre": "Profesorado en Biología",
+        "materias": [
+            { "id": 1, "nombre": "Lectura y Escritura Académica", "anio": 1, "regular": [], "aprobada": [] },
+            { "id": 2, "nombre": "Psicología Educacional", "anio": 1, "regular": [], "aprobada": [] },
+            { "id": 3, "nombre": "Pedagogía", "anio": 1, "regular": [], "aprobada": [] },
+            { "id": 4, "nombre": "Didáctica General", "anio": 2, "regular": [3], "aprobada": [] },
+            { "id": 5, "nombre": "El Quehacer Matemático", "anio": 1, "regular": [], "aprobada": [] },
+            { "id": 6, "nombre": "Intr. Análisis de Funciones", "anio": 1, "regular": [], "aprobada": [] },
+            { "id": 7, "nombre": "Álgebra Conjuntos Numéricos", "anio": 1, "regular": [], "aprobada": [] },
+            { "id": 8, "nombre": "Geometría del Plano", "anio": 1, "regular": [], "aprobada": [] },
+            { "id": 9, "nombre": "Práctica Profesional Docente I", "anio": 1, "regular": [], "aprobada": [] },
+            
+        ]
+            }
 
 }
