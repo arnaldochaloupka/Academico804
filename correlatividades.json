@@ -84,7 +84,7 @@
         ]
     }
 
-    "MAT": {
+    "BIO": {
         "id": "BIO",
         "nombre": "Profesorado en Biología",
         "materias": [
@@ -102,3 +102,4 @@
             }
 
 }
+
