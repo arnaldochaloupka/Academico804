@@ -82,8 +82,7 @@
             { "id": 34, "nombre": "UDI del CFE", "anio": 4, "regular": [], "aprobada": [] },
             { "id": 35, "nombre": "Práctica Prof. IV y Residencia", "anio": 4, "regular": [22, 27], "aprobada": [4, 10, 11, 12, 13, 14, 15, 16, 17, 18] }
         ]
-    }
-
+    },
     "BIO": {
         "id": "BIO",
         "nombre": "Profesorado en Biología",
@@ -102,4 +101,5 @@
             }
 
 }
+
 
