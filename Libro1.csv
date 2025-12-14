@@ -20,6 +20,10 @@ DNI,NOMBRE,ID Carrera,ID Materia,Estado
 26225365,"Chaloupka, Andrés Arnaldo",MAT,4,A
 26225365,"Chaloupka, Andrés Arnaldo",MAT,5,R
 26225365,"Chaloupka, Andrés Arnaldo",MAT,6,R
+26225366,"Chaloupka, Arnaldo",BIO,1,A
+26225366,"Chaloupka, Arnaldo",BIO,2,R
+26225366,"Chaloupka, Arnaldo",BIO,3,R
+26225366,"Chaloupka, Arnaldo",BIO,4,R
 43861405,"Gomez, Gabriel",QUI,1,A
 43861405,"Gomez, Gabriel",QUI,2,A
 43861405,"Gomez, Gabriel",QUI,3,A
@@ -51,4 +55,5 @@ DNI,NOMBRE,ID Carrera,ID Materia,Estado
 99887766,"Ramirez, Lucia",QUI,19,A
 99887766,"Ramirez, Lucia",QUI,5,A
 99887766,"Ramirez, Lucia",QUI,8,A
+
 
