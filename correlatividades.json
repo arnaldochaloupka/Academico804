@@ -83,7 +83,7 @@
             { "id": 35, "nombre": "Práctica Prof. IV y Residencia", "anio": 4, "regular": [22, 27], "aprobada": [4, 10, 11, 12, 13, 14, 15, 16, 17, 18] }
         ]
     },
-    "BIO": {
+"BIO": {
         "id": "BIO",
         "nombre": "Profesorado en Biología",
         "materias": [
@@ -95,11 +95,10 @@
             { "id": 6, "nombre": "Intr. Análisis de Funciones", "anio": 1, "regular": [], "aprobada": [] },
             { "id": 7, "nombre": "Álgebra Conjuntos Numéricos", "anio": 1, "regular": [], "aprobada": [] },
             { "id": 8, "nombre": "Geometría del Plano", "anio": 1, "regular": [], "aprobada": [] },
-            { "id": 9, "nombre": "Práctica Profesional Docente I", "anio": 1, "regular": [], "aprobada": [] },
-            
+            { "id": 9, "nombre": "Práctica Profesional Docente I", "anio": 1, "regular": [], "aprobada": [] }
         ]
-            }
-
+    }
 }
+
 
 
