@@ -1,9 +1,9 @@
 Columna 1,Columna 2,Columna 3,Columna 4,Columna 5
 DNI,NOMBRE,ID Carrera,ID Materia,Estado
 11223364,"Zuca, Luis",MAT,1,A
-11445644,"Rámirez, Pablo",MAT,1,R
-11445644,"Rámirez, Pablo",MAT,2,R
-11445644,"Rámirez, Pablo",MAT,3,R
+11445644,"RÃ¡mirez, Pablo",MAT,1,R
+11445644,"RÃ¡mirez, Pablo",MAT,2,R
+11445644,"RÃ¡mirez, Pablo",MAT,3,R
 99887755,"Ortigas, Lucas",QUI,2,A
 99887755,"Ortigas, Lucas",QUI,3,R
 99887755,"Ortigas, Lucas",QUI,4,R
@@ -45,3 +45,4 @@ DNI,NOMBRE,ID Carrera,ID Materia,Estado
 99887766,"Ramirez, Lucia",QUI,19,A
 99887766,"Ramirez, Lucia",QUI,5,A
 99887766,"Ramirez, Lucia",QUI,8,A
+
