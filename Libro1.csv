@@ -9,12 +9,12 @@ DNI,NOMBRE,ID Carrera,ID Materia,Estado
 99887755,"Ortigas, Lucas",QUI,4,R
 99887755,"Ortigas, Lucas",QUI,5,A
 99887755,"Ortigas, Lucas",QUI,6,A
-2625365,"Chaloupka, Andrés Arnaldo",MAT,1,A
-2625365,"Chaloupka, Andrés Arnaldo",MAT,2,A
-2625365,"Chaloupka, Andrés Arnaldo",MAT,3,A
-2625365,"Chaloupka, Andrés Arnaldo",MAT,4,A
-2625365,"Chaloupka, Andrés Arnaldo",MAT,5,A
-2625365,"Chaloupka, Andrés Arnaldo",MAT,6,A
+2625365,"Chaloupka, Andres Arnaldo",MAT,1,A
+2625365,"Chaloupka, Andres Arnaldo",MAT,2,A
+2625365,"Chaloupka, Andres Arnaldo",MAT,3,A
+2625365,"Chaloupka, Andres Arnaldo",MAT,4,A
+2625365,"Chaloupka, Andres Arnaldo",MAT,5,A
+2625365,"Chaloupka, Andres Arnaldo",MAT,6,A
 99887755,"Ortigas, Lucas",QUI,7,R
 99887755,"Ortigas, Lucas",QUI,8,A
 99887755,"Ortigas, Lucas",QUI,9,A
@@ -51,5 +51,6 @@ DNI,NOMBRE,ID Carrera,ID Materia,Estado
 99887766,"Ramirez, Lucia",QUI,19,A
 99887766,"Ramirez, Lucia",QUI,5,A
 99887766,"Ramirez, Lucia",QUI,8,A
+
 
 
