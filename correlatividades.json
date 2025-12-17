@@ -161,6 +161,35 @@
             { "id": 29, "nombre": "", "anio": 1, "regular": [], "aprobada": [] }
         ]
     },
+    "TAP": {
+        "id": "TAP",
+        "nombre": "Tecnicatura Superior En Administración Pública Orientada Al Desarrollo Local",
+        "materias": [
+            { "id": 1, "nombre": " Práctica Profesional I (La Administración Pública)", "anio": 1, "regular": [], "aprobada": [] },
+            { "id": 2, "nombre": "EDI 1", "anio": 1, "regular": [], "aprobada": [] },
+            { "id": 3, "nombre": "Política, Sociedad y Estado ", "anio": 1, "regular": [], "aprobada": [] },
+            { "id": 4, "nombre": "Tecnologías informáticas para la gestión ", "anio": 1, "regular": [], "aprobada": [] },
+            { "id": 5, "nombre": "La administración pública ", "anio": 1, "regular": [], "aprobada": [] },
+            { "id": 6, "nombre": "Metodología de la Investigación Social", "anio": 1, "regular": [], "aprobada": [] },
+            { "id": 7, "nombre": "Estadística Básica", "anio": 1, "regular": [], "aprobada": [] },
+            { "id": 8, "nombre": "Matemática Básica", "anio": 1, "regular": [], "aprobada": [] },
+            { "id": 9, "nombre": "Práctica Profesional II (El Planeamiento Participativo)", "anio": 2, "regular": [1, 5, 6], "aprobada": [] },
+            { "id": 10, "nombre": " Problemáticas Sociopolíticas Contemporáneas ", "anio": 2, "regular": [3], "aprobada": [] },
+            { "id": 11, "nombre": "Contabilidad básica", "anio": 2, "regular": [8], "aprobada": [] },
+            { "id": 12, "nombre": "EDI 2", "anio": 2, "regular": [], "aprobada": [] },
+            { "id": 13, "nombre": " Políticas Públicas, Planeamiento Estratégico y Desarrollo Local", "anio": 2, "regular": [5], "aprobada": [] },
+            { "id": 14, "nombre": "Derecho Administrativo", "anio": 2, "regular": [3], "aprobada": [] },
+            { "id": 15, "nombre": " Economía local, regional y global", "anio": 2, "regular": [3], "aprobada": [] },
+            { "id": 16, "nombre": " Práctica Profesional III (La intervención territorial)", "anio": 3, "regular": [9, 10, 11, 12, 13, 14, 15], "aprobada": [1, 2, 3, 4, 5, 6, 7, 8] },
+            { "id": 17, "nombre": "Ética profesional ", "anio": 3, "regular": [14], "aprobada": [1, 2, 3, 4, 5, 6, 7, 8] },
+            { "id": 18, "nombre": " Procesos Político – Económicos y el Mundo del Trabajo Actual", "anio": 3, "regular": [10, 15], "aprobada": [1, 2, 3, 4, 5, 6, 7, 8] },
+            { "id": 19, "nombre": " Gestión Pública", "anio": 3, "regular": [13], "aprobada": [1, 2, 3, 4, 5, 6, 7, 8] },
+            { "id": 20, "nombre": " Sistemas de Gestión de Personal ", "anio": 3, "regular": [14], "aprobada": [1, 2, 3, 4, 5, 6, 7, 8] },
+            { "id": 21, "nombre": "Administración Financiera y presupuestaria del sector público", "anio": 3, "regular": [11, 15], "aprobada": [1, 2, 3, 4, 5, 6, 7, 8] },
+            { "id": 22, "nombre": "Diseño y gestión de las Organizaciones", "anio": 3, "regular": [], "aprobada": [1, 2, 3, 4, 5, 6, 7, 8] },
+            { "id": 23, "nombre": " Comunicación en las organizaciones ", "anio": 3, "regular": [], "aprobada": [1, 2, 3, 4, 5, 6, 7, 8] }
+        ]
+    },
       "PEF": {
         "id": "PEF",
         "nombre": "Profesorado de Educación Física",
@@ -224,6 +253,7 @@
         ]
     }
 }
+
 
 
 
