@@ -190,13 +190,14 @@
             { "id": 23, "nombre": " Comunicación en las organizaciones ", "anio": 3, "regular": [], "aprobada": [1, 2, 3, 4, 5, 6, 7, 8] }
         ]
     },
+    
   "ED": {
     "id": "ED",
     "nombre": "Tecnicatura Superior en Entrenamiento Deportivo",
     "materias": [
       { "id": 1, "nombre": "Lectura, escritura y oralidad", "anio": 1, "regular": [], "aprobada": [], "aprobada_cursada": [] },
       { "id": 2, "nombre": "Problemáticas Socioculturales Contemporáneas", "anio": 1, "regular": [], "aprobada": [], "aprobada_cursada": [] },
-      { "id": 3, "nombre": "Nutrición para la actividad Física y Deportiva", "anio": 1, "regular": [], "aprobada": [], "aprobada_cursada": []},
+      { "id": 3, "nombre": "Nutrición para la actividad Física y Deportiva", "anio": 1, "regular": [], "aprobada": [], "aprobada_cursada": [] },
       { "id": 4, "nombre": "Anatomía y Biomecánica", "anio": 1, "regular": [], "aprobada": [], "aprobada_cursada": [] },
       { "id": 5, "nombre": "Fisiología aplicada I", "anio": 1, "regular": [], "aprobada": [], "aprobada_cursada": [] },
       { "id": 6, "nombre": "Introducción a las Prácticas Deportivas", "anio": 1, "regular": [], "aprobada": [], "aprobada_cursada": [] },
@@ -205,19 +206,19 @@
       { "id": 9, "nombre": "Práctica profesional I", "anio": 1, "regular": [], "aprobada": [], "aprobada_cursada": [] },
       { "id": 10, "nombre": "Inglés Técnico", "anio": 2, "regular": [], "aprobada": [], "aprobada_cursada": [] },
       { "id": 11, "nombre": "Psicología de la Actividad Física y Deportiva", "anio": 2, "regular": [], "aprobada": [], "aprobada_cursada": [] },
-          { "id": 12, "nombre": "Tecnologías de la información y de la comunicación", "anio": 2, "regular": [], "aprobada": [], "aprobada_cursada": [] },
+      { "id": 12, "nombre": "Tecnologías de la información y de la comunicación", "anio": 2, "regular": [], "aprobada": [], "aprobada_cursada": [] },
       { "id": 13, "nombre": "Fisiología Aplicada II", "anio": 2, "regular": [5], "aprobada": [], "aprobada_cursada": [5] },
-          { "id": 14, "nombre": "Evaluación de la Actividad Física y Deportiva", "anio": 2, "regular": [5, 7, 8], "aprobada": [], "aprobada_cursada": [5, 7, 8] },
+      { "id": 14, "nombre": "Evaluación de la Actividad Física y Deportiva", "anio": 2, "regular": [5, 7, 8], "aprobada": [], "aprobada_cursada": [5, 7, 8] },
       { "id": 15, "nombre": "Estructura Básica de los Deportes", "anio": 2, "regular": [6], "aprobada": [8], "aprobada_cursada": [6] },
-          { "id": 16, "nombre": "Entrenamiento II", "anio": 2, "regular": [8], "aprobada": [], "aprobada_cursada": [8] },
+      { "id": 16, "nombre": "Entrenamiento II", "anio": 2, "regular": [8], "aprobada": [], "aprobada_cursada": [8] },
       { "id": 17, "nombre": "Práctica Profesional II", "anio": 2, "regular": [8, 9], "aprobada": [], "aprobada_cursada": [8, 9] },
-          { "id": 18, "nombre": "Ética y Fromación Profesional", "anio": 3, "regular": [17], "aprobada": [2], "aprobada_cursada": [2, 17] },
+      { "id": 18, "nombre": "Ética y Fromación Profesional", "anio": 3, "regular": [17], "aprobada": [2], "aprobada_cursada": [2, 17] },
       { "id": 19, "nombre": "Lesionas Deportivas y Primeros Auxilios", "anio": 3, "regular": [], "aprobada": [4], "aprobada_cursada": [4] },
-          { "id": 20, "nombre": "Estadística Aplicada al Entrenamiento Deportivo", "anio": 3, "regular": [12, 14, 16], "aprobada": [], "aprobada_cursada": [12, 14, 16] },
+      { "id": 20, "nombre": "Estadística Aplicada al Entrenamiento Deportivo", "anio": 3, "regular": [12, 14, 16], "aprobada": [], "aprobada_cursada": [12, 14, 16] },
       { "id": 21, "nombre": "Actividad Física y Salud", "anio": 2, "regular": [8], "aprobada": [8], "aprobada_cursada": [] },
-         { "id": 10, "nombre": "Inglés Técnico", "anio": 2, "regular": [], "aprobada": [], "aprobada_cursada": [] },
+      { "id": 10, "nombre": "Inglés Técnico", "anio": 2, "regular": [], "aprobada": [], "aprobada_cursada": [] },
       { "id": 16, "nombre": "Entrenamiento II", "anio": 2, "regular": [8], "aprobada": [8], "aprobada_cursada": [] },
-         { "id": 10, "nombre": "Inglés Técnico", "anio": 2, "regular": [], "aprobada": [], "aprobada_cursada": [] },
+      { "id": 10, "nombre": "Inglés Técnico", "anio": 2, "regular": [], "aprobada": [], "aprobada_cursada": [] },
       { "id": 16, "nombre": "Entrenamiento II", "anio": 2, "regular": [8], "aprobada": [8], "aprobada_cursada": [] },
       { "id": 10, "nombre": "Inglés Técnico", "anio": 2, "regular": [], "aprobada": [], "aprobada_cursada": [] }
     ]
@@ -285,6 +286,7 @@
         ]
     }
 }
+
 
 
 
