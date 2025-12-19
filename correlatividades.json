@@ -196,7 +196,7 @@
     "materias": [
       { "id": 1, "nombre": "Lectura, escritura y oralidad", "anio": 1, "regular": [], "aprobada": [], "aprobada_cursada": [] },
       { "id": 2, "nombre": "Problemáticas Socioculturales Contemporáneas", "anio": 1, "regular": [], "aprobada": [], "aprobada_cursada": [] },
-         { "id": 3, "nombre": "Nutrición para la actividad Física y Deportiva", "anio": 1, "regular": [], "aprobada": [], "aprobada_cursada": []
+      { "id": 3, "nombre": "Nutrición para la actividad Física y Deportiva", "anio": 1, "regular": [], "aprobada": [], "aprobada_cursada": []},
       { "id": 4, "nombre": "Anatomía y Biomecánica", "anio": 1, "regular": [], "aprobada": [], "aprobada_cursada": [] },
       { "id": 5, "nombre": "Fisiología aplicada I", "anio": 1, "regular": [], "aprobada": [], "aprobada_cursada": [] },
       { "id": 6, "nombre": "Introducción a las Prácticas Deportivas", "anio": 1, "regular": [], "aprobada": [], "aprobada_cursada": [] },
@@ -221,7 +221,6 @@
       { "id": 16, "nombre": "Entrenamiento II", "anio": 2, "regular": [8], "aprobada": [8], "aprobada_cursada": [] },
       { "id": 10, "nombre": "Inglés Técnico", "anio": 2, "regular": [], "aprobada": [], "aprobada_cursada": [] }
     ]
-  }
 },
       "PEF": {
         "id": "PEF",
@@ -286,6 +285,7 @@
         ]
     }
 }
+
 
 
 
