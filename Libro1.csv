@@ -14,16 +14,16 @@ DNI,NOMBRE,ID Carrera,ID Materia,Estado
 99887755,"Ortigas, Lucas",QUI,9,A
 99887755,"Ortigas, Lucas",QUI,10,R
 99887766,"Ramirez, Lucia",QUI,1,R
-26225365,"Chaloupka, Andrés Arnaldo",MAT,1,A
-26225365,"Chaloupka, Andrés Arnaldo",MAT,2,R
-26225365,"Chaloupka, Andrés Arnaldo",MAT,3,A
-26225365,"Chaloupka, Andrés Arnaldo",MAT,4,A
-26225365,"Chaloupka, Andrés Arnaldo",MAT,5,R
-26225365,"Chaloupka, Andrés Arnaldo",MAT,6,R
-26225366,"Chaloupka, Arnaldo",BIO,1,A
-26225366,"Chaloupka, Arnaldo",BIO,2,R
-26225366,"Chaloupka, Arnaldo",BIO,3,R
-26225366,"Chaloupka, Arnaldo",BIO,4,R
+26225465,"Pérez, Joaquín",MAT,1,A
+26225465,"Pérez, Joaquín",MAT,2,R
+26225465,"Pérez, Joaquín",MAT,3,A
+26225465,"Pérez, Joaquín",MAT,4,A
+26225465,"Pérez, Joaquín",MAT,5,R
+26225465,"Pérez, Joaquín",MAT,6,R
+26225466,"Lucio, Ricardo",BIO,1,A
+26225366,"Lucio, Ricardo",BIO,2,R
+26225366,"Lucio, Ricardo",BIO,3,R
+26225366,"Lucio, Ricardo",BIO,4,R
 43861405,"Gomez, Gabriel",QUI,1,A
 43861405,"Gomez, Gabriel",QUI,2,A
 43861405,"Gomez, Gabriel",QUI,3,A
@@ -55,16 +55,17 @@ DNI,NOMBRE,ID Carrera,ID Materia,Estado
 99887766,"Ramirez, Lucia",QUI,19,A
 99887766,"Ramirez, Lucia",QUI,5,A
 99887766,"Ramirez, Lucia",QUI,8,A
-26225366,"Rodríguez, Julio", ED,1,A
-26225366,"Rodríguez, Julio", ED,2,A
-26225366,"Rodríguez, Julio", ED,3,A
-26225366,"Rodríguez, Julio", ED,4,A
-26225366,"Rodríguez, Julio", ED,5,A
-26225366,"Rodríguez, Julio", ED,6,A
-26225366,"Rodríguez, Julio", ED,7,A
-26225366,"Rodríguez, Julio", ED,8,A
-26225366,"Rodríguez, Julio", ED,9,A
-26225366,"Rodríguez, Julio", ED,10,A
+26225766,"Rodríguez, Julio", ED,1,A
+26225766,"Rodríguez, Julio", ED,2,A
+26225766,"Rodríguez, Julio", ED,3,A
+26225766,"Rodríguez, Julio", ED,4,A
+26225766,"Rodríguez, Julio", ED,5,A
+26225766,"Rodríguez, Julio", ED,6,A
+26225766,"Rodríguez, Julio", ED,7,A
+26225766,"Rodríguez, Julio", ED,8,A
+26225766,"Rodríguez, Julio", ED,9,A
+26225766,"Rodríguez, Julio", ED,10,A
+
 
 
 
